@@ -15,10 +15,10 @@
 		 Run the bot, for each module required open powershell and do "npm i <module name>"
 		 Also, create a settings.json file with this in it:
 		 {
-			"ownerid": "PUT YOUR ID",
-			"friendids": "FRIEND'S ID",
+			"ownerid": "1293507390070591610","682097451301470327",
+			"friendids": "682097451301470327",
 			"prefix": "-",
-			"token": "INSERT TOKEN"
+			"token": "MTI5OTk5MzAyOTk0MzQ5MjYwOA.GENvQZ.0TMmBsH9s60yVDTLh3L0bVo7uQIabGVhVL1veY"
 		}
 		 Also be sure to create a folder called "images"
 		 I know there's other open source bots like Bastion or Xiao, but FroSkid is easy to use bot and it isn't complicated.
