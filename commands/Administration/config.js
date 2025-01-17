@@ -48,7 +48,7 @@ if(!message.guild.me.hasPermission("MANAGE_GUILD"))
   //    db.set(`welcomechannel_${message.guild.id}`, `member-log`)
  // }
 
-  if(options == "prefix")
+  if(options == "-")
   {
       if(set.length < 1) return message.channel.send({embed: { color: 0xFF0000, title: ":octagonal_sign: Error", description: "Invalid Prefix"}})
       db.set(`prefix_${message.guild.id}`, set)
